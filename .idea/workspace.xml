@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4799f349-c744-4c13-bd85-1eb58ac02375" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/200B.Drinks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/318A.Even-odds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/486A.Calculating-function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/61A.Ultra-Fast-mathematician.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/705A.Hulk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
