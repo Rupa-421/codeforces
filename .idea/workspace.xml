@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4799f349-c744-4c13-bd85-1eb58ac02375" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/144A.Arrival-of-the-general.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/148A.Insomnia-cure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/208A.Dubstep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/469A.I-wanna-be-the-guy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/131A.cAPSlOCK.py" beforeDir="false" afterPath="$PROJECT_DIR$/131A.cAPSlOCK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1328A.Divisibility-problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25A.IQ-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/268A.Games.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/443A.Anton-and-letters.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
